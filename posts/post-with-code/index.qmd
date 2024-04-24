@@ -1,0 +1,13 @@
+---
+title: "Analysis of DHS Data"
+author: "Varaidzo Moyo"
+date: "2024-04-24"
+categories: [news, code, analysis,r]
+image: "image.jpg"
+---
+
+This was a project using DHS data.You can find the project
+
+```{r}
+1 + 1
+```
